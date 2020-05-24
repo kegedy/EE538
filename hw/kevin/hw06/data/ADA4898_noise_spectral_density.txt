@@ -1,0 +1,6 @@
+       --- Noise Spectral Density - (V/Hz½ or A/Hz½) ---
+
+frequency:	 1000	 frequency
+gain:	 0.999993	 gain
+V(onoise):	 8.41671e-010	 voltage
+V(inoise):	 8.41676e-010	 voltage
