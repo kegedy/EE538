@@ -11,3 +11,7 @@
 6. Filters
 7. Sampling and Quantization
 8. Data Converters
+
+#### Strain-Gage Low-Noise Signal Conditioning
+
+![Project Design LTSpice](top_level.png)
