@@ -17,3 +17,5 @@
 [ UWEE538/design_project/EEP538_Final.pdf ](https://github.com/kegedy/UWEE538/blob/master/design_project/EEP538_Final.pdf)
 
 ![Project Design LTSpice](top_level.png)
+
+![Project Design LTSpice](top_level_response.png)
